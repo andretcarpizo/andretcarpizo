@@ -1,4 +1,4 @@
-# 🦀 Andret Carpizo
+# Andret Carpizo
 
 **`Filmmaker | Game Developer`**
 

@@ -1,8 +1,5 @@
-# Andret Carpizo
-
-**`Filmmaker | Game Developer`**
-
 ![github_banner](https://github.com/andretcarpizo/andretcarpizo/assets/69943379/0e776f13-9608-49d6-b55a-096ec47917c9)
+
 
 ### Languages and Tools:
 
